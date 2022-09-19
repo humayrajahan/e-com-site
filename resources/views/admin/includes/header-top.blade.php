@@ -13,7 +13,7 @@
     </a>
 
     <div class="page-title-box">
-        <h3>Admin Panel</h3>
+        <h3>Managing Panel</h3>
     </div>
 
     <a id="mobile_btn" class="mobile_btn" href="index.html#sidebar"><i class="fa fa-bars"></i></a>

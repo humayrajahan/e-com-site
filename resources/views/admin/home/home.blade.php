@@ -14,7 +14,7 @@
                     <div class="col-md-10 mx-auto">
                         <div class="card">
                             <div class="card-header text-center text-white bg-danger">
-                                <h3>Admin Dashboard</h3>
+                                <h3>Manage Dashboard</h3>
                             </div>
                             <div class="card-body">
                                 <div class="col-md-12">

@@ -104,6 +104,10 @@ class FrontController extends Controller
     {
         return view('front.about.about');
     }
+    public function career()
+    {
+        return view('front.about.career-guide');
+    }
 
     public function newMessage(Request $request)
     {

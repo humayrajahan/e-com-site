@@ -1,7 +1,7 @@
 @extends('front.master')
 
 @section('title')
-    <title>Courses</title>
+    <title>Goods</title>
 @endsection
 
 @section('body')

@@ -59,6 +59,10 @@ Route::get('/about', [
     'uses' => 'App\Http\Controllers\Front\FrontController@about',
     'as' => 'about',
 ]);
+Route::get('/career', [
+    'uses' => 'App\Http\Controllers\Front\FrontController@career',
+    'as' => 'career',
+]);
 
 Route::get('checkout', [CartController::class, 'checkout'])->name('checkout');
 Route::get('checkout-proceed', [CartController::class, 'checkoutProceed'])->name('checkout.proceed');

@@ -9,10 +9,8 @@
     <section class="latest spad">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title">
-                        <h2>About Us</h2>
-                    </div>
+                <div class="col-lg-12 about__pic">
+                    <img src="{{asset('/')}}/front-assets/img/about-us.png">
                 </div>
             </div>
             <div class="row">
